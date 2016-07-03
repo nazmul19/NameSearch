@@ -38,7 +38,7 @@ Java-1.5+
 - Goto root Directory of source code
 - CMD <b>mvn clean compile assembly:single</b>
 
-#How to testcase(s)
+#How to Run testcase(s)
 - Goto root directory of source code
 - CMD <b>mvn test</b>
 - Testcase report available here https://github.com/nazmul19/name-search-trie/blob/master/target/surefire-reports/edu.test.contact.SearchTest.txt
