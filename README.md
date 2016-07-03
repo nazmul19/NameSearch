@@ -30,16 +30,16 @@ Java-1.5+
 
 #How to run
 - Downlaod this repository
-- Change your current directory to downloaded folder
+- Change your current directory to downloaded <b>target</b> folder
 - CMD <b>java -jar nameSearch-0.0.1-SNAPSHOT-jar-with-dependencies.jar</b>
 
 #How to build from source code
 - Maven build should be installed on system
-- Goto Root Directory of source code
+- Goto root Directory of source code
 - CMD <b>mvn clean compile assembly:single</b>
 
 #How to testcase(s)
-- goto Root directory of source code
+- Goto root directory of source code
 - CMD <b>mvn test</b>
 - Testcase report available here https://github.com/nazmul19/name-search-trie/blob/master/target/surefire-reports/edu.test.contact.SearchTest.txt
 
